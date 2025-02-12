@@ -1,0 +1,2 @@
+# setup
+Configuração do ambiente.
