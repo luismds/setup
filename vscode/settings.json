@@ -1,0 +1,42 @@
+{
+    "window.commandCenter": false,
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "'Iosevka Term Medium','CommitMono Nerd Font', Consolas, 'Courier New', monospace",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.fontSize": 13,
+    "editor.fontSize": 15,
+    "editor.lineHeight": 1.6,
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "workbench.colorTheme": "Tsoding Emacs Gruber Minimal",
+    "workbench.layoutControl.enabled": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true,
+        "**/.git": true,
+        "**/tmp": true
+    }
+}
